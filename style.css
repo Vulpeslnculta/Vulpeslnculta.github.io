@@ -1,0 +1,21 @@
+html *
+{
+   color: #000 !important;
+   font-family: "fantasy", "copperplate" !important;
+   text-align: center;
+}
+h1 
+{
+    font-size: 2em;
+}
+button {
+    background-color: #8449ab;
+    border: 10px;
+    color: rgb(0, 0, 0);
+    padding: 5px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+  }
